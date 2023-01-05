@@ -4,7 +4,7 @@ export default {
 		return {
 			copyrightDate: new Date().getFullYear(),
 			projectName: 'Portfolio',
-			author: 'Chhinghor',
+			author: 'Bounavong',
 		};
 	},
 };

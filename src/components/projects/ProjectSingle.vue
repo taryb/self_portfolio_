@@ -5,8 +5,7 @@ export default {
 </script>
 
 <template>
-	<h2>Under Construction :-(</h2>
-	<!-- <router-link
+	<router-link
 		to="/projects/single-project"
 		class="rounded-xl shadow-lg hover:shadow-xl cursor-pointer mb-10 sm:mb-0 bg-secondary-light dark:bg-ternary-dark"
 		aria-label="Single Project"
@@ -29,7 +28,7 @@ export default {
 				>{{ project.category }}</span
 			>
 		</div>
-	</router-link> -->
+	</router-link>
 </template>
 
 <style lang="scss" scoped></style>

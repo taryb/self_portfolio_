@@ -4,10 +4,11 @@
 const projects = [
 	{
 		id: 1,
-		title: 'SDF Cambodia',
+		title: 'placeholder',
 		category: 'Web Application',
 		img: require('@/assets/images/web-project-2.jpg'),
 	},
+	/*
 	{
 		id: 2,
 		title: 'SAHAKA',
@@ -37,7 +38,7 @@ const projects = [
 		title: 'POS Camcyber',
 		category: 'Web Application',
 		// img: require('@/assets/images/web-project-1.jpg'),
-	},
+	},*/
 ];
 
 export default projects;

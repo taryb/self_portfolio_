@@ -13,18 +13,13 @@ export default {
 			contacts: [
 				{
 					id: 1,
-					name: 'Sangkat Teukthla, Sen Sok, Cambodia',
+					name: 'Fairfield, CA',
 					icon: 'map-pin',
 				},
 				{
 					id: 2,
-					name: 'lengchhinghor@gmail.com',
+					name: 'tarybounavong@gmail.com',
 					icon: 'mail',
-				},
-				{
-					id: 3,
-					name: '+855 16839143',
-					icon: 'phone',
 				},
 			],
 		};

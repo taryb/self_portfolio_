@@ -6,12 +6,12 @@ export default {
 				{
 					id: 1,
 					bio:
-						'HI, I am Leng Chhinghor!',
+						'Hi, I am Tary Bounavong!',
 				},
 				{
 					id: 2,
 					bio:
-						'Backend Developer at APD bank.',
+						'X-ray Optic Engineer @ Sigray Inc',
 				},
 			],
 		};

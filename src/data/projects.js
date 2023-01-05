@@ -6,7 +6,7 @@ const projects = [
 		id: 1,
 		title: 'SDF Cambodia',
 		category: 'Web Application',
-		// img: require('@/assets/images/web-project-2.jpg'),
+		img: require('@/assets/images/web-project-2.jpg'),
 	},
 	{
 		id: 2,

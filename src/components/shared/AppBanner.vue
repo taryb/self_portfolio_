@@ -63,13 +63,13 @@ export default {
 				v-if="theme === 'light'"
 				src="@/assets/images/IMG_7109.jpg"
 				alt="Developer"
-				width="300"
+				width="400"
 			/>
 			<img
 				v-else
 				src="@/assets/images/IMG_7109.jpg"
 				alt="Developer"
-				width="300"
+				width="400"
 			/>
 		</div>
 	</section>

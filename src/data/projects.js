@@ -4,17 +4,18 @@
 const projects = [
 	{
 		id: 1,
-		title: 'placeholder',
+		title: 'Web Scraping with Python',
 		category: 'Web Application',
 		img: require('@/assets/images/web-project-2.jpg'),
 	},
-	/*
+	
 	{
 		id: 2,
-		title: 'SAHAKA',
+		title: 'placeholder2',
 		category: 'Web Application',
-		// img: require('@/assets/images/mobile-project-2.jpg'),
+		img: require('@/assets/images/mobile-project-2.jpg'),
 	},
+	/*
 	{
 		id: 3,
 		title: 'APD Website',

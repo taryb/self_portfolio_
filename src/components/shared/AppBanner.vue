@@ -40,7 +40,7 @@ export default {
 			<p
 				class="font-general-medium mt-2 text-lg sm:text-xl  xl:text-2xl text-center sm:text-left leading-none text-gray-400"
 			>
-				X-Ray Optic Engineer I, working to be a Software Engineer/Data Analyst
+				working to be a Software Engineer/Data Analyst
 			</p>
 		</div>
 

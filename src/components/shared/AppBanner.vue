@@ -33,7 +33,7 @@ export default {
 			<h1
 				class="font-general-semibold text-3xl md:text-3xl xl:text-4xl text-center sm:text-left text-ternary-dark dark:text-primary-light"
 			>
-				Tary Bounavong
+				Tary Bounavongg
 			</h1>
 			<h2 class="font-general-semibold text-center sm:text-left text-ternary-dark dark:text-primary-light">I build things for fun sometimes.</h2>
 			<h3 class="font-general-semibold text-center sm:text-left text-ternary-dark dark:text-primary-light">I am currently working as an</h3>

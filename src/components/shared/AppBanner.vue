@@ -35,7 +35,7 @@ export default {
 			>
 				Tary Bounavong
 			</h1>
-			<h2 class="font-general-semibold text-center sm:text-left text-ternary-dark dark:text-primary-light">I build things for fun.</h2>
+			<h2 class="font-general-semibold text-center sm:text-left text-ternary-dark dark:text-primary-light">I build things for fun sometimes.</h2>
 			<h3 class="font-general-semibold text-center sm:text-left text-ternary-dark dark:text-primary-light">I am currently working as an</h3>
 			<p
 				class="font-general-medium mt-2 text-lg sm:text-xl  xl:text-2xl text-center sm:text-left leading-none text-gray-400"

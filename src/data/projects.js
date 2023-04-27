@@ -13,7 +13,7 @@ const projects = [
 		id: 2,
 		title: 'placeholder2',
 		category: 'Web Application',
-		img: require('@/assets/images/mobile-project-2.jpg'),
+		img: require('@/assets/images/web-project-2.jpg'),
 	},
 	/*
 	{

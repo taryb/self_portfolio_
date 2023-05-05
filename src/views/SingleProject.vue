@@ -96,26 +96,21 @@ export default {
 						id: 2,
 						name: 'Instagram',
 						icon: 'instagram',
-						url: 'https://www.instagram.com/seavhorrr',
+						url: 'https://www.instagram.com/',
 					},
 					{
 						id: 3,
 						name: 'Facebook',
 						icon: 'facebook',
-						url: 'https://facebook.com/stom.sharow',
+						url: 'https://facebook.com/',
 					},
 					{
 						id: 4,
 						name: 'LinkedIn',
 						icon: 'linkedin',
-						url: 'https://www.linkedin.com/in/ching-hor-bb7bb415b/',
+						url: 'https://www.linkedin.com/in/',
 					},
-					{
-						id: 5,
-						name: 'Youtube',
-						icon: 'youtube',
-						url: 'https://www.youtube.com/channel/UCSS-bVfkA2CWiAJJjJnUaaQ',
-					},
+					
 				],
 			},
 			relatedProject: {

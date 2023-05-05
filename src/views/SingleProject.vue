@@ -33,24 +33,10 @@ export default {
 				companyInfos: [
 					{
 						id: 1,
-						title: 'MEF',
-						details: 'Ministry of Economy and Finance',
-					},
-					{
-						id: 2,
-						title: 'Services',
-						details: 'Website/Portal',
-					},
-					{
-						id: 3,
-						title: 'Website',
-						details: 'http://www.sdfcambodia.org/kh/home',
-					},
-					{
-						id: 4,
-						title: 'Phone',
-						details: 'N/A',
-					},
+						title: 'Purpose of learning
+						details: ' just to learn',
+					}
+		
 				],
 				objectivesHeading: 'Objective',
 				objectivesDetails:

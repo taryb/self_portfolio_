@@ -26,16 +26,7 @@ export default {
 					title: 'SDF Cambodia',
 					img: require('@/assets/images/ui-project-1.jpg'),
 				},
-				{
-					id: 2,
-					title: 'SDF Cambodia',
-					img: require('@/assets/images/web-project-2.jpg'),
-				},
-				{
-					id: 3,
-					title: 'SDF Cambodia',
-					img: require('@/assets/images/mobile-project-2.jpg'),
-				},
+		
 			],
 			projectInfo: {
 				clientHeading: 'About Client',

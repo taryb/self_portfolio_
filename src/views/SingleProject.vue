@@ -54,7 +54,7 @@ export default {
 				],
 				objectivesHeading: 'Objective',
 				objectivesDetails:
-					'To be the most trusted financing platform for sustainable and demand-driven skill development.',
+					'Webscrape',
 				technologies: [
 					{
 						title: 'Tools & Technologies',
